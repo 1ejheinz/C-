@@ -1,0 +1,8 @@
+﻿  Drill 2.cpp
+C:\Users\ejhei\source\repos\Drill 2\Drill 2\Drill 2.cpp(41,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ejhei\source\repos\Drill 2\Drill 2\Drill 2.cpp(41,8): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ejhei\source\repos\Drill 2\Drill 2\Drill 2.cpp(44,11): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ejhei\source\repos\Drill 2\Drill 2\Drill 2.cpp(44,8): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ejhei\source\repos\Drill 2\Drill 2\Drill 2.cpp(45,12): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ejhei\source\repos\Drill 2\Drill 2\Drill 2.cpp(45,8): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Drill 2.vcxproj -> C:\Users\ejhei\source\repos\Drill 2\x64\Debug\Drill 2.exe

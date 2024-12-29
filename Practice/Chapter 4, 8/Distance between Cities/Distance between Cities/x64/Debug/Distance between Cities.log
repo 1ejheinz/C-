@@ -1,0 +1,3 @@
+﻿  Distance between Cities.cpp
+C:\Users\ejhei\source\repos\Distance between Cities\Distance between Cities\Distance between Cities.cpp(26,63): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Distance between Cities.vcxproj -> C:\Users\ejhei\source\repos\Distance between Cities\x64\Debug\Distance between Cities.exe
