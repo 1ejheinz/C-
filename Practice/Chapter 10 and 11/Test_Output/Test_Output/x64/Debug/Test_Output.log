@@ -1,9 +1,0 @@
-﻿  Test_Output.cpp
-C:\Users\ejhei\source\repos\Test_Output\Test_Output\Test_Output.cpp(15,9): warning C4273: '_localtime64_s': inconsistent dll linkage
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\time.h(239,26): message : see previous definition of '_localtime64_s'
-C:\Users\ejhei\source\repos\Test_Output\Test_Output\Test_Output.cpp(19,21): warning C4099: 'tm': type name first seen using 'struct' now seen using 'class'
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\locale.h(64,8): message : see declaration of 'tm'
-C:\Users\ejhei\source\repos\Test_Output\Test_Output\Test_Output.cpp(49): warning C4717: '_localtime64_s': recursive on all control paths, function will cause runtime stack overflow
-C:\Users\ejhei\source\repos\Test_Output\Test_Output\Test_Output.cpp(49): warning C4715: '_localtime64_s': not all control paths return a value
-     Creating library C:\Users\ejhei\source\repos\Test_Output\x64\Debug\Test_Output.lib and object C:\Users\ejhei\source\repos\Test_Output\x64\Debug\Test_Output.exp
-  Test_Output.vcxproj -> C:\Users\ejhei\source\repos\Test_Output\x64\Debug\Test_Output.exe

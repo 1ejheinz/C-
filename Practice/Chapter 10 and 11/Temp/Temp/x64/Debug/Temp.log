@@ -1,3 +1,0 @@
-﻿  Temp.cpp
-C:\Users\ejhei\source\repos\Temp\Temp\Temp.cpp(62,46): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
-  Temp.vcxproj -> C:\Users\ejhei\source\repos\Temp\x64\Debug\Temp.exe
