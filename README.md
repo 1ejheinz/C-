@@ -39,16 +39,15 @@ Replace the content of tasks.json with the following: {
       "command": "g++",
       "args": [
         "-g",
-        "Miles Kilometers.cpp",
+        "Name of the.cpp",
         "-o",
-        "MilesKilometers"
+        "Name of"
       ],
       "group": {
         "kind": "build",
         "isDefault": true
       },
-      "problemMatcher": ["$gcc"],
-      "detail": "Generated task by VS Code."
+      "problemMatcher": ["$gcc"]
     }
   ]
 }
@@ -64,7 +63,7 @@ Replace the content of launch.json with the following: {
       "name": "(gdb) Launch",
       "type": "cppdbg",
       "request": "launch",
-      "program": "${workspaceFolder}/MilesKilometers",
+      "program": "${workspaceFolder}/Your folder",
       "args": [],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}",
